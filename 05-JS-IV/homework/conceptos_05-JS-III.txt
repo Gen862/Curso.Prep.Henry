@@ -1,0 +1,6 @@
+Objetos: son cosas que tienes caracteristicas que los describen, ejemplo un carro (este es el objeto) tiene las caracteristicas color: ´gris´, kilometraje: 55, marca: ´dodge´;
+Propiedades: son las caracteristicas que describen al objeto. ('color', 'marca', kilometraje)
+Métodos: los las funciones que se le pueden atribuir a este objeto, ejemplo: avanzar(); puede ser la funcion que haga que nuestro objeto carro avance,
+Bucle: los bucles son ciclos que hacen acciones repetitivas, la cantidad N de veces que lo requieras.
+Notación de puntos vs notación de corchetes: la diferencia es que la notación de corchetes trae la propiedad que estamos llamando mediante esta estructura [], y la notación de puntos es el nombre del objeto.laPropiedadALlamar
+

@@ -1,0 +1,66 @@
+
+html{
+    height: 100%;
+    
+}
+
+body{
+    background-image: url(../img/fondo.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.2rem;
+    min-height: 100%;
+    width: 100%;
+}
+.lado{
+    width: 400px;
+    height: 350px;
+    margin-left: 260px;
+    position: absolute;
+    margin-left: 1100px;
+    margin-bottom: 100%;
+
+}
+#header{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.centro{
+    margin-top: 50px;
+    margin-left: 190px;
+    width: 50%;
+    height: 50%;
+    background-attachment: grey;
+    text-align: center;
+    justify-content: center;
+    position: absolute;;
+
+}
+
+#main{
+    color: aliceblue;
+    font-size: 1.2rem;
+    justify-content: center;
+    text-align: center;
+    padding: 9px;
+}
+.grid-container > {
+    display:grid;
+}
+
+
+
+.swiper-container {
+width: 300px;
+height: 300px;
+position: absolute;
+}
+
+.swiper-slide {
+background-position: center;
+background-size: cover;
+}
+
+
+

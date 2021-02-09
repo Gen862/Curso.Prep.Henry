@@ -1,0 +1,2 @@
+Prototype: es de forma general de donde proviene el objeto, ejemplo una marca de algun objeto como huawei, su prototipo es que sea un celular o, como un Dodge su prototipo es un auto.
+Constructor: es como una plantilla que tiene las características que se va a contener mi objeto.  

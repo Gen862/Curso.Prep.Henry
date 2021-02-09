@@ -1,0 +1,1 @@
+Las funciones callback: son funciones dentro de una funcion que pueden ser invocadas llamandolas. ejemplo: array = ['lucas', 1, true, llamarNombre(function(x){return 'hola soy';);}]

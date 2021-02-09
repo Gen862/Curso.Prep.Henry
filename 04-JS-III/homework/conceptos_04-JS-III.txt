@@ -1,0 +1,1 @@
+Arrays: son como un closet que tiene diferentes articulos por dentro, los arrays guardan tipo de datos dentro de una variable.

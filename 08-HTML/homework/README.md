@@ -63,12 +63,12 @@ IV. Suba su trabajo a su repositorio de github`
 ```
 Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la carpeta de 'homework' llamado 'cv.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:
 
-* Titulo
-* Descripción Personal
-* Educación
-* Experiencias Laborales
-* Skills
-* Tu foto
+* Titulo //listo
+* Descripción Personal //listo
+* Educación //listo
+* Experiencias Laborales //listo
+* Skills //listo
+* Tu foto //listo
 * Hobbies
 
 Además agregá una sección más donde expliques por qué estás estudiando esta carrera y cuáles son tus expectativas al finalizar la carrera.

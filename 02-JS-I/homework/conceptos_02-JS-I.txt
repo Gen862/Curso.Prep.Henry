@@ -1,0 +1,5 @@
+Variables: Es como una cajita, la cual puedes ir ingresandole algún tipo de valor, por ejemplo: tenemos una variable llamada numero el cual se le asigna un valor, numero = 1;
+Strings: basicamente son palabras, si 'a' es un caracter, los strings son cadenas de caractéres que van encerrados en comillas simples o dobles, ejemplo: "hola" / 'hola';
+Funciones: son fragmentos de codigo que cumplen alguna acción en específico ejemplo, tenemos un objeto carro y queremos que acelere, para esto creamos una función, acelerarCarro(); y la instanciamos a nuestro objeto para que haga la acción determinada.
+Declaraciones: cuando vamos a declarar algo debemos argumentar las condiciones para llevar a cabo lo que se pretende lograr, ejemplo: queremos saber si un numero es menor que 10, podemos hacer un condicional especificando que if (a<10){console.log(a);}  
+Valores booleanos: son operadores lógicos de verdadero o falso, ejemplo si tengo 3 manzanas es una afirmación por ende es true, pero si decimos que 10>50 es false, porque no es cierto.

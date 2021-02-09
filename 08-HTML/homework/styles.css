@@ -1,0 +1,16 @@
+.divClass{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown; 
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: bisque;
+    border:  black;
+    padding: 50px;
+    border-radius: 5px;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
